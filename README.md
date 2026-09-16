@@ -11,9 +11,11 @@ Repository:
 https://github.com/computational-chemistry-uva/ReacPred
 
 Technologies:
-- Deep Learning
+- Machine Learning
 - Graph Neural Networks
-- Chemistry Informatics
+- Feature analysis
+- Cheminformatics
+- Periodic DFT
 
 ## Skills
 
@@ -33,4 +35,4 @@ Technologies:
 - Python
 - PyTorch
 - Machine Learning
-- Computational Chemistry
+- Cheminformatics
