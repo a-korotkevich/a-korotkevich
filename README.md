@@ -1,6 +1,6 @@
 # Hi, I'm Alexander Korotkevich
 
-Cheminformatician | Data Scientist | Scientific Machine Learning Engineer 
+Scientific Machine Learning Engineer  | Data Scientist | Computational modelling scientist
 
 ## Featured Projects
 
