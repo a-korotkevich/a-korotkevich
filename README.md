@@ -2,6 +2,15 @@
 
 Scientific Machine Learning Engineer  | Data Scientist | Computational modelling scientist
 
+## Skills
+
+- Python
+- Deep Learning
+- Bayesian optimization & active learning
+- Computational Chemistry
+- Data Analysis
+- Spectroscopy
+
 ## Featured Projects
 
 ### ReacPred
@@ -16,14 +25,6 @@ Technologies:
 - Feature analysis
 - Cheminformatics
 - Periodic DFT
-
-## Skills
-
-- Python
-- Machine Learning
-- Deep Learning
-- Computational Chemistry
-- Data Analysis
 
 ### SurfPro
 Contributed to the dataset curation for surface-related property prediction.
