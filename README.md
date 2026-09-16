@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Alexander Korotkevich
 
-<!--
-**a-korotkevich/a-korotkevich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cheminformatician | Data Scientist | Scientific Machine Learning Engineer 
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### ReacPred
+Contributed to reaction prediction workflows and model development.
+
+Repository:
+https://github.com/computational-chemistry-uva/ReacPred
+
+Technologies:
+- Deep Learning
+- Graph Neural Networks
+- Chemistry Informatics
+
+## Skills
+
+- Python
+- Machine Learning
+- Deep Learning
+- Computational Chemistry
+- Data Analysis
+
+### SurfPro
+Contributed to the dataset curation for surface-related property prediction.
+
+Repository:
+https://github.com/BigChemistry-RobotLab/SurfPro
+
+Technologies:
+- Python
+- PyTorch
+- Machine Learning
+- Computational Chemistry
